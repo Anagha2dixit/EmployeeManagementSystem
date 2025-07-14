@@ -1,0 +1,9 @@
+/Users/anghadixit/EmployeeManagementSystemNew/obj/Debug/net9.0/EmployeeManagementSystemNew.csproj.AssemblyReference.cache
+/Users/anghadixit/EmployeeManagementSystemNew/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/anghadixit/EmployeeManagementSystemNew/obj/Debug/net9.0/EmployeeManagementSystemNew.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anghadixit/EmployeeManagementSystemNew/obj/Debug/net9.0/EmployeeManagementSystemNew.AssemblyInfoInputs.cache
+/Users/anghadixit/EmployeeManagementSystemNew/obj/Debug/net9.0/EmployeeManagementSystemNew.AssemblyInfo.cs
+/Users/anghadixit/EmployeeManagementSystemNew/obj/Debug/net9.0/EmployeeManagementSystemNew.csproj.CoreCompileInputs.cache
+/Users/anghadixit/EmployeeManagementSystemNew/obj/Debug/net9.0/EmployeeManagementSystemNew.MvcApplicationPartsAssemblyInfo.cache
+/Users/anghadixit/EmployeeManagementSystemNew/obj/Debug/net9.0/EmployeeManagementSystemNew.RazorAssemblyInfo.cache
+/Users/anghadixit/EmployeeManagementSystemNew/obj/Debug/net9.0/EmployeeManagementSystemNew.RazorAssemblyInfo.cs
