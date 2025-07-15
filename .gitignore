@@ -1,0 +1,4 @@
+# Ignore local SQLite database files
+employees.db
+*.db-shm
+*.db-wal
